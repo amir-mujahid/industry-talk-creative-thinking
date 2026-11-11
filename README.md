@@ -9,6 +9,7 @@
 - Assignment: ASSIGNMENT 1: INDUSTRY TALK & ACADEMIC WRITING 
 - Lecturer: Dr. Mohd Shahizan bin Othman
 - Submission Date:
+- Group: Section 3 Group 7
 
 ## Group Members
 
