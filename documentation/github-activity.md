@@ -1,0 +1,49 @@
+
+# GitHub Activity Log
+
+## Repository Information
+
+- Repository Name: 
+- Repository URL:
+- Project Board URL:
+
+## GitHub Activities
+
+| Date | Member | Activity Type | Description | GitHub Link |
+|---|---|---|---|---|
+| | | Commit | | |
+| | | Issue | | |
+| | | Pull Request | | |
+| | | Merge | | |
+
+## Individual GitHub Contributions
+
+### Member 1 - Amir
+
+- Branch:
+- Commits:
+- Pull Requests:
+- Issues:
+
+### Member 2 - jiaxuan
+
+- Branch:
+- Commits:
+- Pull Requests:
+- Issues:
+
+### Member 3 - amni
+
+- Branch:
+- Commits:
+- Pull Requests:
+- Issues:
+
+### Member 4 - siti
+
+- Branch:
+- Commits:
+- Pull Requests:
+- Issues:
+
+## Collaboration Summary
