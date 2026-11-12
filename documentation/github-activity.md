@@ -12,8 +12,7 @@
 | Date | Member | Activity Type | Description | GitHub Link |
 |---|---|---|---|---|
 |11/11/2026|Jia Xuan | Commit | Uploaded Mathematical Thinking research| |
-
-
+|12/11/2026|Jia Xuan | Commit | Uploaded Scientific Thinking research| |
 | | | Issue | | |
 | | | Pull Request | | |
 | | | Merge | | |
