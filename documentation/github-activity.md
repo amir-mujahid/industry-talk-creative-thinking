@@ -11,7 +11,7 @@
 
 | Date | Member | Activity Type | Description | GitHub Link |
 |---|---|---|---|---|
-|11/11/2026|Jia Xuan | Commit | Uploaded Mathematical Thinking research| |
+|11/11/2026|Jia Xuan | Commit | Uploaded Mathematical Thinking research| https://github.com/amir-mujahid/industry-talk-creative-thinking/blob/main/research/mathematical-thinking.md|
 |12/11/2026|Jia Xuan | Commit | Uploaded Scientific Thinking research| |
 | | | Issue | | |
 | | | Pull Request | | |
